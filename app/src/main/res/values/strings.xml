@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Twitter Clone</string>
+    <string name="Zarifjon">Zarifjon</string>
+    <string name="goal">Goal</string>
+    <string name="button_text">text</string>
+    <string name="button_text1">Telegram</string>
+    <string name="twitter" />
+    <string name="twitter1">twitter</string>
+</resources>

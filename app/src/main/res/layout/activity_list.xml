@@ -4,12 +4,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".activity.GridActivity">
+    tools:context=".activity.ListActivity">
 
-    <GridView
-        android:id="@+id/gridview"
+
+    <ListView
+        android:id="@+id/listView"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"/>
 
-    </GridView>
 </androidx.constraintlayout.widget.ConstraintLayout>
